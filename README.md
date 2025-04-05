@@ -9,6 +9,15 @@ A responsive and stylish AI-powered career recommendation tool that helps users 
 ├── style.css          # Custom styles 
 ├── script.js          # JavaScript logic for recommendations
 
+🚀 How to Run
+Download or Clone this Repo
+
+bash
+Copy
+Edit
+git clone https://github.com/2303A51648/AI-career-guidance-app.git
+Open the App Open index.html in your web browser.
+
 🔍 How It Works
 Users input:
 
